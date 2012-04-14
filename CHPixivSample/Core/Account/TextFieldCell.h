@@ -1,6 +1,5 @@
 //
 //  TextFieldCell.h
-//  Diary
 //
 //  Created by nya on 10/06/11.
 //  Copyright 2010 __MyCompanyName__. All rights reserved.

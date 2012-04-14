@@ -1,6 +1,5 @@
 //
 //  SharedAlertView.m
-//  girls pic
 //
 //  Created by nya on 11/07/04.
 //  Copyright 2011 __MyCompanyName__. All rights reserved.

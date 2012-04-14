@@ -1,6 +1,5 @@
 //
 //  ImageDiskCache.m
-//  AmebaBlog
 //
 //  Created by nya on 09/12/04.
 //  Copyright 2009 __MyCompanyName__. All rights reserved.
